@@ -1,0 +1,54 @@
+
+Optimized Teams (Faceit diff = 22):
+Team 1 - (1742) corndoogs, MeganaY, Dexter, Blank, Mercury
+Team 2 - (1743) Havaja, Beach, bullseyee47, Kevins, Arcca
+Team 3 - (1744) Flan, Nezināmais., ACasual, CallitLov3, Citrons
+Team 4 - (1745) eXclusive., vilov, minikil, piradzinss, dobelnieks
+Team 5 - (1745) Zemestrice, Aivis, robys, bugzbunnys, Jarvis
+Team 6 - (1745) babaush, adžiks, Pingvins, raxids14, reno
+Team 7 - (1746) RimFire, sipins, Gacha, .laura, Baron Takumi
+Team 8 - (1747) darmstatij, PM40, simis30, Deko, Rainers
+
+Optimized Teams (Faceit diff = 26):
+Team 1 - (1743) MeganaY, piradzinss, Havaja, raxids14, Flan
+Team 2 - (1743) corndoogs, bugzbunnys, robys, Pingvins, reno
+Team 3 - (1743) adžiks, PM40, simis30, dobelnieks, Mercury
+Team 4 - (1744) Deko, Blank, eXclusive., vilov, Dexter
+Team 5 - (1744) Zemestrice, Aivis, bullseyee47, sipins, Baron Takumi
+Team 6 - (1746) darmstatij, minikil, Kevins, Rainers, CallitLov3
+Team 7 - (1746) RimFire, Jarvis, Nezināmais., .laura, ACasual
+Team 8 - (1748) Beach, Gacha, babaush, Citrons, Arcca
+
+Optimized Teams (Faceit diff = 27):
+Team 1 - (1742) eXclusive., Mercury, Dexter, piradzinss, Aivis
+Team 2 - (1742) Havaja, dobelnieks, .laura, darmstatij, Rainers
+Team 3 - (1743) babaush, adžiks, raxids14, Arcca, Baron Takumi
+Team 4 - (1743) Beach, Gacha, PM40, reno, simis30
+Team 5 - (1745) corndoogs, Nezināmais., ACasual, Citrons, bullseyee47
+Team 6 - (1746) Flan, Deko, bugzbunnys, Kevins, sipins
+Team 7 - (1748) minikil, Pingvins, vilov, Zemestrice, CallitLov3
+Team 8 - (1748) RimFire, Blank, robys, MeganaY, Jarvis
+
+Optimized Teams (Faceit diff = 27):
+Team 1 - (1742) darmstatij, PM40, Baron Takumi, Aivis, Deko
+Team 2 - (1743) corndoogs, bugzbunnys, Rainers, robys, Arcca
+Team 3 - (1743) eXclusive., raxids14, MeganaY, minikil, vilov
+Team 4 - (1744) Zemestrice, bullseyee47, simis30, ACasual, Citrons
+Team 5 - (1744) Flan, Blank, Dexter, .laura, dobelnieks
+Team 6 - (1745) Havaja, Gacha, sipins, adžiks, reno
+Team 7 - (1747) babaush, Beach, CallitLov3, Mercury, Kevins
+Team 8 - (1748) RimFire, Jarvis, Nezināmais., Pingvins, piradzinss
+
+Optimized Teams (Faceit diff = 28):
+Team 1 - (1742) minikil, Citrons, PM40, Zemestrice, Deko
+Team 2 - (1742) Aivis, Mercury, Kevins, Baron Takumi, darmstatij
+Team 3 - (1743) Flan, Nezināmais., Rainers, vilov, dobelnieks
+Team 4 - (1744) eXclusive., simis30, raxids14, sipins, ACasual
+Team 5 - (1745) Havaja, Gacha, bullseyee47, Dexter, adžiks
+Team 6 - (1746) corndoogs, bugzbunnys, CallitLov3, piradzinss, .laura
+Team 7 - (1746) babaush, reno, Arcca, Beach, Pingvins
+Team 8 - (1748) RimFire, Blank, robys, Jarvis, MeganaY
+
+Reserve players:
+* kalashik_2024(197)
+* NooBMaster(569)
