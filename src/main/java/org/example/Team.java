@@ -24,7 +24,6 @@ public class Team implements Comparable<Team> {
         this.players.remove(player);
         this.faceitEloSum -= player.getMaxFaceit();
         this.premiereEloSum -= player.getMaxPremiere();
-
     }
 
     public int totalFaceit() {

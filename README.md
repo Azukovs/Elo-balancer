@@ -24,9 +24,19 @@ Functionality:
   * Swap 2 random players in those teams.
   * Re-evaluate difference. If it is smaller - save the current player setup.
   * Repeat for 100'000 random swaps.
-* Repeat the rebalancing flow 50 times to have different team setup options.
+* Repeat the rebalancing flow 20 times to have different team setup options.
 * Sort the options by the minimum faceit elo difference
 * Save the best 5 team setups and write players to a text file.
 
 Check the example `elo.xlsx` file how it should be provided.
 Check the example `teams.txt` file for example output data.
+
+To build an executable .exe via Launch4j:
+* launch `mvn package` to build .jre package
+* Copy the .jre into another new folder
+* Copy your jre directory into the same folder and name it `jre`
+* Open Launch4j and read the attached config file `launch4j_config.xml`
+* In Basic tab, set jar to the directory where jar was copied.
+* Execute.
+
+After .exe is built - can zip and share to whoever. 
