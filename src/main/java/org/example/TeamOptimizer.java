@@ -8,8 +8,8 @@ import static org.example.FileUtil.outputTeams;
 
 public class TeamOptimizer {
     static int TEAM_SIZE = 5;
-    static int ITERATIONS = 1000000;
-    static int OPTION_COUNT = 20;
+    static int ITERATIONS = 1500000;
+    static int OPTION_COUNT = 100;
 
     public static void main(String[] args) {
         List<Player> players = new ArrayList<>();
@@ -29,7 +29,7 @@ public class TeamOptimizer {
             List<Team> optimized = optimize(initialTeams, ITERATIONS);
             optimized.sort(comparingInt(Team::totalFaceit));
             potentialTeams.add(optimized);
-            System.out.println("Generated option " + (i+1) + " out of " + OPTION_COUNT);
+            System.out.println("Generated option " + (i + 1) + " out of " + OPTION_COUNT);
         }
 
         potentialTeams.sort(comparingInt(TeamOptimizer::scoreTeams));

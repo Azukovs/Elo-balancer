@@ -30,7 +30,6 @@ public class Team implements Comparable<Team> {
         return faceitEloSum;
     }
 
-
     @Override
     public int compareTo(Team o) {
         //Compares by max faceit first. If equal = then max premiere.
@@ -46,7 +45,7 @@ public class Team implements Comparable<Team> {
         stringBuilder.append("(").append(faceitEloSum / 5).append(") ");
         for (int i = 0; i < players.size(); i++) {
             Player p = players.get(i);
-            stringBuilder.append(p.getDiscordName());
+            stringBuilder.append(p.toString());
             if (i != players.size() - 1) {
                 stringBuilder.append(", ");
             }

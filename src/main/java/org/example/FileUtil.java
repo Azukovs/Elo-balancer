@@ -102,7 +102,7 @@ public class FileUtil {
 
     public static void outputTeams(List<List<Team>> potentialTeams, List<Player> reserve) {
         try (FileWriter outputWriter = new FileWriter("teams.txt")) {
-            for (int i = 0; i < 5; i++) {
+            for (int i = 0; i < 10; i++) {
                 List<Team> option = potentialTeams.get(i);
                 outputWriter.write("\nOptimized Teams (Faceit diff = " + scoreTeams(option) + "):\n");
                 int num = 1;
@@ -113,7 +113,7 @@ public class FileUtil {
 
             outputWriter.write("\nReserve players:\n");
             for (Player player : reserve) {
-                outputWriter.write("* " + player.getDiscordName() + "(" + player.getCurrentFaceit() + ")\n");
+                outputWriter.write("* " + player.toString() + "\n");
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
